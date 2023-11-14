@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
-import './Login.css'; // Importa o arquivo de estilos CSS
+import './Login.css'; 
+import './forgot-password'
 
 function Login() {
   const [username, setUsername] = useState('');

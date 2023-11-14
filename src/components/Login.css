@@ -56,7 +56,7 @@
   }
   
   .link-container a {
-    color: #007bff;
+    text-decoration: none;
   }
   
   .link-container a:hover {
