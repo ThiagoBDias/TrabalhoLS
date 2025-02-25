@@ -12,10 +12,15 @@ code {
     monospace;
 }
 
-.app{
+.App {
   display: flex;
+  flex-direction: column; /* Alinha os itens em coluna */
+  justify-content: center; /* Centraliza verticalmente */
+  align-items: center; /* Centraliza horizontalmente */
+  height: 100vh; /* Faz ocupar a altura toda da tela */
   text-align: center;
-  display: block;
+  background-color: #f4f4f4; /* Apenas para visualização */
 }
+
 
 
