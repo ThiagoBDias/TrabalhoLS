@@ -45,6 +45,7 @@ return (
   <div className="regist-link">
            <div> <a href="/register" className="link">Registrar</a></div>
            <div> <a href="/forgot-password" className="link">Esqueci a Senha</a></div>
+           
   </div>
     </div>
   );  
